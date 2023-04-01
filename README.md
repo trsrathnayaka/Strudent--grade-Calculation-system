@@ -1,5 +1,5 @@
 
-# 🎓 Student-Grade-Calculatio-system 📚
+# 🎓 Student-Grade-Calculation-system 📚
 
 <p>Write a program in java where in a class there are n number of students with 3 different subjects. Student grade need to be evaluated based upon percentage marks overall. Input for marks against subject can be taken but mid terms marks can be directly entered with the fixed weighted. If a student scored 85 and above grade is A, 60 - 75 is B, 45 - 59 is C , Below 40 is S and F. The result sheet must be shown in a table format.</p>
 
