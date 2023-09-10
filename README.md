@@ -5,3 +5,12 @@
 
 ![Screenshot (246)](https://user-images.githubusercontent.com/97075043/229304471-97a24f39-12a0-4e03-a0c7-567570a3999c.png)
 
+ ### Used Languages
+* Java
+
+### Used Technologies & Frameworks
+* Netbeans 8.2
+
+## Thank you 😃
+
+If you like this project just click ⭐ and share it with others.
